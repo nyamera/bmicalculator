@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter project.
+A new Fluttermproject for measuring the body mass index of a person
 
 ## Getting Started
 
